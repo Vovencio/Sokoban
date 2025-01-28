@@ -2,7 +2,7 @@
   <tr>
     <!-- Image Cell -->
     <td style="width: 30%; vertical-align: top;">
-      <img src="[https://www.opengameart.org/sites/default/files/styles/large/public/8-bit-sprites.png?itok=YOwIqkdr](https://www.cemetech.net/media/archives/screenshots/2023/12/ScreenShot2_fkBzBTJ.jpeg)"]
+      <img src="[https://www.opengameart.org/sites/default/files/styles/large/public/8-bit-sprites.png?itok=YOwIqkdr](https://www.cemetech.net/media/archives/screenshots/2023/12/ScreenShot2_fkBzBTJ.jpeg)]"
            alt="Game Graphics Example" 
            style="width: 100%; object-fit: fill;">
     </td>
