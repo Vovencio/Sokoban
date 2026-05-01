@@ -18,6 +18,3 @@
       </p>
   </tr>
 </table>
-<img src="https://c.tenor.com/EYUlar2QIe4AAAAd/tenor.gif" 
-alt="Cute cat." 
-style="width: 20%; object-fit: fill;">
